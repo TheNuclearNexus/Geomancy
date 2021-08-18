@@ -1,0 +1,44 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "minecraft:block/structure_block"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 980001
+      },
+      "model": "geomancy:item/aquamarine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980002
+      },
+      "model": "geomancy:item/topaz"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980003
+      },
+      "model": "geomancy:item/sapphire"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980004
+      },
+      "model": "geomancy:item/ruby"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980005
+      },
+      "model": "geomancy:item/opal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980006
+      },
+      "model": "geomancy:item/black_opal"
+    }
+  ]
+}
