@@ -1,0 +1,1 @@
+execute if entity @s[tag=geo.died.shielding] run tellraw @a [{"selector":"@s"},"'s defenses were penetrated!"]
