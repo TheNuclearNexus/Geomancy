@@ -1,0 +1,16 @@
+{
+    "criteria": {
+      "craft": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "entity": {
+            "type": "minecraft:wither"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "geomancy:player/kill_wither"
+    }
+  }
+  

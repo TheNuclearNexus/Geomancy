@@ -52,14 +52,14 @@
         "predicate": {
             "custom_model_data": 980001
         },
-        "model": "geomancy:item/shield"
+        "model": "geomancy:item/shield/topaz"
       },
       {
         "predicate": {
             "blocking": 1,
             "custom_model_data": 980001
         },
-        "model": "geomancy:item/shield/blocking"
+        "model": "geomancy:item/shield/blocking/topaz"
       }
   ]
 }
