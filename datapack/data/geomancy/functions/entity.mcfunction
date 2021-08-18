@@ -1,0 +1,1 @@
+execute if entity @s[tag=geo.chalk_circle] run function geomancy:item/blue_chalk/tick

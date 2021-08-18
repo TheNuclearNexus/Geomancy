@@ -1,0 +1,74 @@
+{
+    "type": "minecraft:entity",
+    "pools": [
+        {
+            "rolls": 1.0,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:totem_of_undying"
+                }
+            ]
+        },
+        {
+            "rolls": 1.0,
+            "bonus_rolls": 0.0,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_count",
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "min": 0.0,
+                                "max": 1.0
+                            },
+                            "add": false
+                        },
+                        {
+                            "function": "minecraft:looting_enchant",
+                            "count": {
+                                "type": "minecraft:uniform",
+                                "min": 0.0,
+                                "max": 1.0
+                            }
+                        }
+                    ],
+                    "name": "minecraft:emerald"
+                }
+            ],
+            "conditions": [
+                {
+                    "condition": "minecraft:killed_by_player"
+                }
+            ]
+        },
+        {
+            "rolls": 1,
+            "entries":[
+                {
+                    "type": "loot_table",
+                    "name": "geomancy:item/blue_chalk",
+                    "conditions": [
+                        {
+                            "condition": "random_chance_with_looting",
+                            "chance": 0.33,
+                            "looting_multiplier": 1.15
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "__smithed__": {
+        "rules":[
+            {
+                "type":"smithed:append",
+                "target":"pools",
+                "source":"pools[2]"
+            }
+        ]
+    }
+}
