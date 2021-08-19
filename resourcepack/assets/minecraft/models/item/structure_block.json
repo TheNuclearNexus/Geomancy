@@ -39,6 +39,36 @@
         "custom_model_data": 980006
       },
       "model": "geomancy:item/black_opal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980007
+      },
+      "model": "geomancy:item/tanzanite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980008
+      },
+      "model": "geomancy:item/pearl"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980009
+      },
+      "model": "geomancy:item/pink_diamond"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980010
+      },
+      "model": "geomancy:item/jade"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980011
+      },
+      "model": "geomancy:item/pyrite"
     }
   ]
 }
