@@ -1,4 +1,21 @@
 {
     "item.geomancy.blue_chalk": "Blue Chalk",
-    "text.geomancy.wither_slain": "The king of the underworld has been slain, the spirits have begun to flow naturally once more"
+    "text.geomancy.wither_slain": "The king of the underworld has been slain, the spirits have begun to flow naturally once more",
+
+    "item.geomancy.aquamarine": "Aquamarine",
+    "item.geomancy.topaz": "Topaz",
+    "item.geomancy.sapphire": "Sapphire",
+    "item.geomancy.ruby": "Ruby",
+    "item.geomancy.opal": "Opal",
+    "item.geomancy.black_opal": "Black Opal",
+    "item.geomancy.tanzanite": "Tanzanite",
+    "item.geomancy.pearl": "Pearl",
+    "item.geomancy.pink_diamond": "Pink Diamond",
+    "item.geomancy.jade": "Jade",
+    "item.geomancy.pyrite": "Pyrite",
+    "item.geomancy.fluorite": "Fluorite",
+    "item.geomancy.ametrine": "Ametrine",
+    "item.geomancy.onyx": "Onyx",
+    "item.geomancy.trinitite": "Trinitite",
+    "item.geomancy.malachite": "Malachite"
 }

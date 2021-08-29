@@ -69,6 +69,36 @@
         "custom_model_data": 980011
       },
       "model": "geomancy:item/pyrite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980012
+      },
+      "model": "geomancy:item/fluorite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980013
+      },
+      "model": "geomancy:item/ametrine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980014
+      },
+      "model": "geomancy:item/onyx"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980015
+      },
+      "model": "geomancy:item/trinitite"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980016
+      },
+      "model": "geomancy:item/malachite"
     }
   ]
 }
