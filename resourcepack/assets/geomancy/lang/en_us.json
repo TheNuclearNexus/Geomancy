@@ -17,5 +17,12 @@
     "item.geomancy.ametrine": "Ametrine",
     "item.geomancy.onyx": "Onyx",
     "item.geomancy.trinitite": "Trinitite",
-    "item.geomancy.malachite": "Malachite"
+    "item.geomancy.malachite": "Malachite",
+
+    "item.geomancy.ancient_geode": "Ancient Geode",
+    "item.geomancy.sturdy_geode": "Sturdy Geode",
+    "item.geomancy.dense_geode": "Dense Geode",
+    "item.geomancy.damp_geode": "Damp Geode",
+    "item.geomancy.dark_geode": "Dark Geode",
+    "item.geomancy.eerie_geode": "Eerie Geode"
 }

@@ -15,6 +15,188 @@
           "custom_model_data": 980002
         },
         "model": "geomancy:block/blue_chalk_circle"
+      },
+
+
+
+
+      {
+        "predicate": {
+          "custom_model_data": 981000
+        },
+        "model": "geomancy:item/geode/ancient_geode"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981001
+        },
+        "model": "geomancy:item/geode/ancient_geode_amethyst"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981002
+        },
+        "model": "geomancy:item/geode/ancient_geode_ametrine"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981003
+        },
+        "model": "geomancy:item/geode/ancient_geode_emerald"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981004
+        },
+        "model": "geomancy:item/geode/ancient_geode_diamond"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981005
+        },
+        "model": "geomancy:item/geode/ancient_geode_pink_diamond"
+      },
+
+
+      {
+        "predicate": {
+          "custom_model_data": 981010
+        },
+        "model": "geomancy:item/geode/sturdy_geode"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981011
+        },
+        "model": "geomancy:item/geode/sturdy_geode_topaz"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981012
+        },
+        "model": "geomancy:item/geode/sturdy_geode_sapphire"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981013
+        },
+        "model": "geomancy:item/geode/sturdy_geode_jade"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981014
+        },
+        "model": "geomancy:item/geode/sturdy_geode_amethyst"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981015
+        },
+        "model": "geomancy:item/geode/sturdy_geode_ametrine"
+      },
+
+
+      {
+        "predicate": {
+          "custom_model_data": 981020
+        },
+        "model": "geomancy:item/geode/dense_geode"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981021
+        },
+        "model": "geomancy:item/geode/dense_geode_tanzanite"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981022
+        },
+        "model": "geomancy:item/geode/dense_geode_onyx"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981023
+        },
+        "model": "geomancy:item/geode/dense_geode_opal"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981024
+        },
+        "model": "geomancy:item/geode/dense_geode_black_opal"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981025
+        },
+        "model": "geomancy:item/geode/dense_geode_emerald"
+      },
+
+
+      {
+        "predicate": {
+          "custom_model_data": 981030
+        },
+        "model": "geomancy:item/geode/damp_geode"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981031
+        },
+        "model": "geomancy:item/geode/damp_geode_aquamarine"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981032
+        },
+        "model": "geomancy:item/geode/damp_geode_pearl"
+      },
+
+
+      {
+        "predicate": {
+          "custom_model_data": 981040
+        },
+        "model": "geomancy:item/geode/dark_geode"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981041
+        },
+        "model": "geomancy:item/geode/dark_geode_ruby"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981042
+        },
+        "model": "geomancy:item/geode/dark_geode_malachite"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981043
+        },
+        "model": "geomancy:item/geode/dark_geode_pyrite"
+      },
+
+
+      {
+        "predicate": {
+          "custom_model_data": 981050
+        },
+        "model": "geomancy:item/geode/eerie_geode"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981051
+        },
+        "model": "geomancy:item/geode/eerie_geode_fluorite"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981052
+        },
+        "model": "geomancy:item/geode/eerie_geode_trinitite"
       }
     ]
   }
