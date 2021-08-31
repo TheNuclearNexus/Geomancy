@@ -197,6 +197,12 @@
           "custom_model_data": 981052
         },
         "model": "geomancy:item/geode/eerie_geode_trinitite"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 981053
+        },
+        "model": "geomancy:item/geode/eerie_geode_ender_pearl"
       }
     ]
   }
