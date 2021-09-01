@@ -99,6 +99,104 @@
         "custom_model_data": 980016
       },
       "model": "geomancy:item/malachite"
+    },
+
+
+    {
+      "predicate": {
+        "custom_model_data": 980101
+      },
+      "model": "geomancy:item/aquamarine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980102
+      },
+      "model": "geomancy:item/topaz_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980103
+      },
+      "model": "geomancy:item/sapphire_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980104
+      },
+      "model": "geomancy:item/ruby_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980105
+      },
+      "model": "geomancy:item/opal_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980106
+      },
+      "model": "geomancy:item/black_opal_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980107
+      },
+      "model": "geomancy:item/tanzanite_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980108
+      },
+      "model": "geomancy:item/pearl_crude"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980109
+      },
+      "model": "geomancy:item/pink_diamond_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980110
+      },
+      "model": "geomancy:item/jade_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980111
+      },
+      "model": "geomancy:item/pyrite_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980112
+      },
+      "model": "geomancy:item/fluorite_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980113
+      },
+      "model": "geomancy:item/ametrine_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980114
+      },
+      "model": "geomancy:item/onyx_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980115
+      },
+      "model": "geomancy:item/trinitite_crystal"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 980116
+      },
+      "model": "geomancy:item/malachite_crystal"
     }
   ]
 }
