@@ -1,0 +1,6 @@
+{
+    "parent": "geomancy:item/shield/blocking",
+    "textures": {
+        "1": "geomancy:item/shield/ametrine"
+    }
+}

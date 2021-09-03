@@ -1,0 +1,6 @@
+{
+    "parent": "geomancy:item/shield",
+    "textures": {
+        "1": "geomancy:item/shield/black_opal"
+    }
+}

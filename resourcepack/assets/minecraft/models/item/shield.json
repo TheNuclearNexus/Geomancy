@@ -52,14 +52,209 @@
         "predicate": {
             "custom_model_data": 980001
         },
-        "model": "geomancy:item/shield/topaz"
+        "model": "geomancy:item/shield/aquamarine"
       },
       {
         "predicate": {
             "blocking": 1,
             "custom_model_data": 980001
         },
+        "model": "geomancy:item/shield/blocking/aquamarine"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980002
+        },
+        "model": "geomancy:item/shield/topaz"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980002
+        },
         "model": "geomancy:item/shield/blocking/topaz"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980003
+        },
+        "model": "geomancy:item/shield/sapphire"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980003
+        },
+        "model": "geomancy:item/shield/blocking/sapphire"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980004
+        },
+        "model": "geomancy:item/shield/ruby"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980004
+        },
+        "model": "geomancy:item/shield/blocking/ruby"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980005
+        },
+        "model": "geomancy:item/shield/opal"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980005
+        },
+        "model": "geomancy:item/shield/blocking/opal"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980006
+        },
+        "model": "geomancy:item/shield/tanzanite"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980006
+        },
+        "model": "geomancy:item/shield/blocking/tanzanite"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980007
+        },
+        "model": "geomancy:item/shield/pearl"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980007
+        },
+        "model": "geomancy:item/shield/blocking/pearl"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980008
+        },
+        "model": "geomancy:item/shield/pink_diamond"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980008
+        },
+        "model": "geomancy:item/shield/blocking/pink_diamond"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980009
+        },
+        "model": "geomancy:item/shield/black_opal"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980009
+        },
+        "model": "geomancy:item/shield/blocking/black_opal"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980010
+        },
+        "model": "geomancy:item/shield/fluorite"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980010
+        },
+        "model": "geomancy:item/shield/blocking/fluorite"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980011
+        },
+        "model": "geomancy:item/shield/ametrine"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980011
+        },
+        "model": "geomancy:item/shield/blocking/ametrine"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980012
+        },
+        "model": "geomancy:item/shield/jade"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980012
+        },
+        "model": "geomancy:item/shield/blocking/jade"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980013
+        },
+        "model": "geomancy:item/shield/onyx"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980013
+        },
+        "model": "geomancy:item/shield/blocking/onyx"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980014
+        },
+        "model": "geomancy:item/shield/trinitite"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980014
+        },
+        "model": "geomancy:item/shield/blocking/trinitite"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980015
+        },
+        "model": "geomancy:item/shield/pyrite"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980015
+        },
+        "model": "geomancy:item/shield/blocking/pyrite"
+      },
+      {
+        "predicate": {
+            "custom_model_data": 980016
+        },
+        "model": "geomancy:item/shield/malachite"
+      },
+      {
+        "predicate": {
+            "blocking": 1,
+            "custom_model_data": 980016
+        },
+        "model": "geomancy:item/shield/blocking/malachite"
       }
   ]
 }

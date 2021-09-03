@@ -1,6 +1,6 @@
 {
     "parent": "geomancy:item/shield",
     "textures": {
-        "1": "geomancy:item/shield/topaz"
+        "1": "geomancy:item/shield/ruby"
     }
 }
