@@ -197,6 +197,68 @@
         "custom_model_data": 980116
       },
       "model": "geomancy:item/malachite_crystal"
+    },
+
+
+    {
+      "predicate": {
+        "custom_model_data": 981000
+      },
+      "model": "geomancy:block/breaking_0"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981001
+      },
+      "model": "geomancy:block/breaking_1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981002
+      },
+      "model": "geomancy:block/breaking_2"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981003
+      },
+      "model": "geomancy:block/breaking_3"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981004
+      },
+      "model": "geomancy:block/breaking_4"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981005
+      },
+      "model": "geomancy:block/breaking_5"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981006
+      },
+      "model": "geomancy:block/breaking_6"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981007
+      },
+      "model": "geomancy:block/breaking_7"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981008
+      },
+      "model": "geomancy:block/breaking_8"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 981009
+      },
+      "model": "geomancy:block/breaking_9"
     }
   ]
 }
