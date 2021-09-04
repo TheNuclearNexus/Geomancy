@@ -20,13 +20,13 @@
         "predicate": {
           "custom_model_data": 980003
         },
-        "model": "geomancy:block/chisel"
+        "model": "geomancy:item/chisel"
       },
       {
         "predicate": {
           "custom_model_data": 980004
         },
-        "model": "geomancy:block/hammer"
+        "model": "geomancy:item/hammer"
       },
 
 
