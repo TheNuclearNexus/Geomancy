@@ -16,6 +16,18 @@
         },
         "model": "geomancy:block/blue_chalk_circle"
       },
+      {
+        "predicate": {
+          "custom_model_data": 980003
+        },
+        "model": "geomancy:block/chisel"
+      },
+      {
+        "predicate": {
+          "custom_model_data": 980004
+        },
+        "model": "geomancy:block/hammer"
+      },
 
 
 
