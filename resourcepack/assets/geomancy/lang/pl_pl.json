@@ -1,10 +1,10 @@
 {
     "text.geomancy.wither_slain": "Król podziemia został zabity, dusze od nowa zaczęły powiewać swobodnie",
     
-    "item.geomancy.blue_chalk": "Niebieska Kreda",
-    "item.geomancy.chisel": "Dłuto Geologiczne",
-    "item.geomancy.hammer": "Młot Geologiczne",
-    "item.geomancy.sandpaper": "Papier Ścierny",
+    "item.geomancy.blue_chalk": "Niebieska kreda",
+    "item.geomancy.chisel": "Dłuto geologiczne",
+    "item.geomancy.hammer": "Młot geologiczne",
+    "item.geomancy.sandpaper": "Papier ścierny",
 
     "item.geomancy.aquamarine": "§r§fAkwamaryn",
     "item.geomancy.topaz": "§r§fTopaz",
@@ -26,12 +26,12 @@
     "item.geomancy.crystal": "§r§fKryształ %s",
     "item.geomancy.gem_shield": "%s Tarcza",
 
-    "item.geomancy.ancient_geode": "Starożytna Geoda",
-    "item.geomancy.sturdy_geode": "Twarda Geoda",
-    "item.geomancy.dense_geode": "Gęsta Geoda",
-    "item.geomancy.damp_geode": "Wilgotna Geoda",
-    "item.geomancy.dark_geode": "Ciemna Geoda",
-    "item.geomancy.eerie_geode": "Dziwaczna Geoda",
+    "item.geomancy.ancient_geode": "Starożytna geoda",
+    "item.geomancy.sturdy_geode": "Twarda geoda",
+    "item.geomancy.dense_geode": "Gęsta geoda",
+    "item.geomancy.damp_geode": "Wilgotna geoda",
+    "item.geomancy.dark_geode": "Ciemna geoda",
+    "item.geomancy.eerie_geode": "Dziwaczna geoda",
     
     "quality.geomancy.purity": "Czystość %s",
     "quality.geomancy.size": "Wielkość %s"
