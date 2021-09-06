@@ -59,7 +59,7 @@
           "functions": [
             {
               "function": "set_nbt",
-              "tag": "{geomancy:{spirit:\"minecraft:creeper\"}}"
+              "tag": "{geomancy:{spirit:{id:\"minecraft:creeper\"}}}"
             }
           ],
           "conditions": [

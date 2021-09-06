@@ -1,5 +1,8 @@
 {
     "values":[
-        "geomancy:item/blue_chalk/use"
+        "geomancy:item/blue_chalk/use",
+        "geomancy:item/chisel/use",
+        "geomancy:item/geode/use",
+        "geomancy:item/hammer/use"
     ]
 }

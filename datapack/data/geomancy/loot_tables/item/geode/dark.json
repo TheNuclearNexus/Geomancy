@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:carrot_on_a_stick",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:981040,HideFlags:127,RepairCost:2147483647,display:{Name:'{\"translate\":\"item.geomancy.dark_geode\",\"italic\":false}'},smithed:{id:\"geomancy:dark_geode\",dict:[\"geomancy:geode\"]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

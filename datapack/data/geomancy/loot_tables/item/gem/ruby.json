@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:structure_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:980004,display:{Name:'{\"translate\":\"item.geomancy.ruby\",\"italic\":false}'},smithed:{id:\"geomancy:ruby\",dict:[\"geomancy:gem\"]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

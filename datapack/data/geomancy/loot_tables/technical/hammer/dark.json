@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/ruby"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/malachite"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/pyrite"
+          }
+        ]
+      }
+    ]
+  }
+  

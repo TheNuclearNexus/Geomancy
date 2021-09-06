@@ -1,0 +1,56 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/topaz"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/sapphire"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/jade"
+          },
+          {
+            "type": "minecraft:alternatives",
+            "children": [
+              {
+                "type": "minecraft:loot_table",
+                "name": "geomancy:item/crystal/ametrine",
+                "conditions": [
+                  {
+                    "condition": "minecraft:location_check",
+                    "predicate": {
+                      "dimension": "minecraft:the_end"
+                    }
+                  }
+                ],
+                "functions": [
+                  {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{geomancy:{geode:981015}}"
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:item",
+                "name": "minecraft:amethyst_shard",
+                "functions": [
+                  {
+                    "function": "minecraft:set_nbt",
+                    "tag": "{geomancy:{geode:981014}}"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

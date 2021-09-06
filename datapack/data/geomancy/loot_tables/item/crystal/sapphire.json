@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:structure_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:980103,display:{Name:'{\"translate\":\"item.geomancy.crystal\",\"italic\":false,\"with\":[{\"translate\":\"item.geomancy.sapphire\"}]}'},smithed:{id:\"geomancy:sapphire_crystal\",dict:[\"geomancy:crystal\"]},geomancy:{geode:981012}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

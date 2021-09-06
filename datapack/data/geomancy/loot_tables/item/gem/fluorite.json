@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:structure_block",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:980012,display:{Name:'{\"translate\":\"item.geomancy.fluorite\",\"italic\":false}'},smithed:{id:\"geomancy:fluorite\",dict:[\"geomancy:gem\"]}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

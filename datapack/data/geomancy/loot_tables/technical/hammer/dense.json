@@ -1,0 +1,50 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:alternatives",
+            "children": [
+              {
+                "type": "minecraft:loot_table",
+                "name": "geomancy:item/crystal/black_opal",
+                "conditions": [
+                  {
+                    "condition": "minecraft:location_check",
+                    "predicate": {
+                      "dimension": "minecraft:the_end"
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:loot_table",
+                "name": "geomancy:item/crystal/opal"
+              }
+            ]
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/onyx"
+          },
+          {
+            "type": "minecraft:loot_table",
+            "name": "geomancy:item/crystal/tanzanite"
+          },
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:emerald",
+            "functions": [
+              {
+                "function": "minecraft:set_nbt",
+                "tag": "{geomancy:{geode:981025}}"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

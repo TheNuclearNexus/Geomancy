@@ -1,0 +1,35 @@
+{
+    "criteria": {
+      "kill": {
+        "trigger": "minecraft:player_killed_entity",
+        "conditions": {
+          "player": {
+            "equipment": {
+              "mainhand": {
+                "items": [
+                  "minecraft:glass_bottle"
+                ]
+              }
+            }
+          },
+          "entity": [
+            {
+              "condition": "minecraft:entity_properties",
+              "entity": "this",
+              "predicate": {
+                "type": "minecraft:bat",
+                "nbt": "{ArmorItems:[{tag:{geomancy:{spirit:{id:\"minecraft:creeper\"}}}}]}"
+              }
+            }
+          ]
+        }
+      }
+    },
+    "rewards": {
+      "function": "geomancy:entity/spirit/catch",
+      "loot": [
+          "blocks/creeper_head"
+      ]
+    }
+  }
+  
