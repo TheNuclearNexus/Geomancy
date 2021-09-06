@@ -28,6 +28,12 @@
         },
         "model": "geomancy:item/hammer"
       },
+      {
+        "predicate": {
+          "custom_model_data": 980005
+        },
+        "model": "geomancy:item/sandpaper"
+      },
 
 
 

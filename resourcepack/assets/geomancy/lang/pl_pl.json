@@ -1,0 +1,35 @@
+{
+    "text.geomancy.wither_slain": "Król podziemia został zabity, dusze od nowa zaczęły powiewać swobodnie",
+    
+    "item.geomancy.blue_chalk": "Niebieska Kreda",
+    "item.geomancy.chisel": "Dłuto Geologiczne",
+    "item.geomancy.hammer": "Młot Geologiczne",
+    "item.geomancy.sandpaper": "Papier Ścierny",
+
+    "item.geomancy.aquamarine": "Akwamaryn",
+    "item.geomancy.topaz": "Topaz",
+    "item.geomancy.sapphire": "Szafir",
+    "item.geomancy.ruby": "Rubin",
+    "item.geomancy.opal": "Opal",
+    "item.geomancy.black_opal": "Czarny Opal",
+    "item.geomancy.tanzanite": "Tanzanit",
+    "item.geomancy.pearl": "Perła",
+    "item.geomancy.pink_diamond": "Różowy Diament",
+    "item.geomancy.jade": "Jadeit",
+    "item.geomancy.pyrite": "Piryt",
+    "item.geomancy.fluorite": "Fluoryt",
+    "item.geomancy.ametrine": "Ametryn",
+    "item.geomancy.onyx": "Onyks",
+    "item.geomancy.trinitite": "Trynityt",
+    "item.geomancy.malachite": "Malachit",
+
+    "item.geomancy.crystal": "Kryształ %s",
+    "item.geomancy.gem_shield": "%s Tarcza",
+
+    "item.geomancy.ancient_geode": "Starożytna Geoda",
+    "item.geomancy.sturdy_geode": "Twarda Geoda",
+    "item.geomancy.dense_geode": "Gęsta Geoda",
+    "item.geomancy.damp_geode": "Wilgotna Geoda",
+    "item.geomancy.dark_geode": "Ciemna Geoda",
+    "item.geomancy.eerie_geode": "Dziwaczna Geoda"
+}
