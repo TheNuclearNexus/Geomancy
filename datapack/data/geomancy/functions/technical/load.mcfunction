@@ -10,5 +10,7 @@ scoreboard objectives add geo.exFails dummy
 scoreboard objectives add geo.exGoal dummy
 scoreboard objectives add geo.exSpeed dummy
 
+# Sanding
+scoreboard objectives add geo.sandTime dummy
 
 execute unless score $witherSlain geo.data matches -2147483648..2147483647 run scoreboard players set $witherSlain geo.data 0
