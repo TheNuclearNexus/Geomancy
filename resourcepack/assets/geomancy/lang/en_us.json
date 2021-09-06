@@ -1,8 +1,10 @@
 {
+    "text.geomancy.wither_slain": "The king of the underworld has been slain, the spirits have begun to flow naturally once more",
+    
     "item.geomancy.blue_chalk": "Blue Chalk",
     "item.geomancy.chisel": "Geological Chisel",
     "item.geomancy.hammer": "Geological Hammer",
-    "text.geomancy.wither_slain": "The king of the underworld has been slain, the spirits have begun to flow naturally once more",
+    "item.geomancy.sandpaper": "Sandpaper",
 
     "item.geomancy.aquamarine": "§r§fAquamarine",
     "item.geomancy.topaz": "§r§fTopaz",
@@ -22,23 +24,7 @@
     "item.geomancy.malachite": "§r§fMalachite",
 
     "item.geomancy.crystal": "%s§r§f Crystal",
-
-    "item.geomancy.aquamarine_shield": "Aquamarine Shield",
-    "item.geomancy.topaz_shield": "Topaz Shield",
-    "item.geomancy.sapphire_shield": "Sapphire Shield",
-    "item.geomancy.ruby_shield": "Ruby Shield",
-    "item.geomancy.opal_shield": "Opal Shield",
-    "item.geomancy.black_opal_shield": "Black Opal Shield",
-    "item.geomancy.tanzanite_shield": "Tanzanite Shield",
-    "item.geomancy.pearl_shield": "Pearl Shield",
-    "item.geomancy.pink_diamond_shield": "Pink Diamond Shield",
-    "item.geomancy.jade_shield": "Jade Shield",
-    "item.geomancy.pyrite_shield": "Pyrite Shield",
-    "item.geomancy.fluorite_shield": "Fluorite Shield",
-    "item.geomancy.ametrine_shield": "Ametrine Shield",
-    "item.geomancy.onyx_shield": "Onyx Shield",
-    "item.geomancy.trinitite_shield": "Trinitite Shield",
-    "item.geomancy.malachite_shield": "Malachite Shield",
+    "item.geomancy.gem_shield": "%s Shield",
 
     "item.geomancy.ancient_geode": "Ancient Geode",
     "item.geomancy.sturdy_geode": "Sturdy Geode",
@@ -46,7 +32,7 @@
     "item.geomancy.damp_geode": "Damp Geode",
     "item.geomancy.dark_geode": "Dark Geode",
     "item.geomancy.eerie_geode": "Eerie Geode",
-    
+
     "quality.geomancy.purity": "Purity %s",
     "quality.geomancy.size": "Size %s"
 }
