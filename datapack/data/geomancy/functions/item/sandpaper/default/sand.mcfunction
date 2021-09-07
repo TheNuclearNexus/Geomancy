@@ -1,0 +1,16 @@
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:ametrine_crystal"} run loot give @s loot geomancy:item/gem/ametrine
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:aquamarine_crystal"} run loot give @s loot geomancy:item/gem/aquamarine
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:black_opal_crystal"} run loot give @s loot geomancy:item/gem/black_opal
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:fluorite_crystal"} run loot give @s loot geomancy:item/gem/fluorite
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:jade_crystal"} run loot give @s loot geomancy:item/gem/jade
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:malachite_crystal"} run loot give @s loot geomancy:item/gem/malachite
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:onyx_crystal"} run loot give @s loot geomancy:item/gem/onyx
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:opal_crystal"} run loot give @s loot geomancy:item/gem/opal
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:pearl_crystal"} run loot give @s loot geomancy:item/gem/pearl
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:pink_diamond_crystal"} run loot give @s loot geomancy:item/gem/pink_diamond
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:pyrite_crystal"} run loot give @s loot geomancy:item/gem/pyrite
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:ruby_crystal"} run loot give @s loot geomancy:item/gem/ruby
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:sapphire_crystal"} run loot give @s loot geomancy:item/gem/sapphire
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:tanzanite_crystal"} run loot give @s loot geomancy:item/gem/tanzanite
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:topaz_crystal"} run loot give @s loot geomancy:item/gem/topaz
+execute if score $temp geo.data matches 0 store result score $temp geo.data if data storage geomancy:data {id:"geomancy:trinitite_crystal"} run loot give @s loot geomancy:item/gem/trinitite

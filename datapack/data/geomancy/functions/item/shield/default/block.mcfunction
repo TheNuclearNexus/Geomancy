@@ -1,0 +1,2 @@
+execute if predicate geomancy:item/shield/fluorite run scoreboard players set $threshold geo.blockDmg 1024
+execute if predicate geomancy:item/shield/jade run scoreboard players add $threshold geo.blockDmg 3

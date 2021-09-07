@@ -1,0 +1,17 @@
+[
+    {
+      "function": "copy_nbt",
+      "source": {
+        "type": "storage",
+        "source": "geomancy:data"
+      },
+      "ops": [
+        {
+          "op": "merge",
+          "source": "item",
+          "target": "{}"
+        }
+      ]
+    }
+  ]
+  

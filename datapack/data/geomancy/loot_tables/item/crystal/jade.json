@@ -10,7 +10,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:980110,display:{Name:'{\"translate\":\"item.geomancy.crystal\",\"italic\":false,\"with\":[{\"translate\":\"item.geomancy.jade\"}]}'},smithed:{id:\"geomancy:jade_crystal\",dict:[\"geomancy:crystal\"]},geomancy:{geode:981013}}"
+                            "tag": "{CustomModelData:980110,display:{Name:'{\"translate\":\"item.geomancy.crystal\",\"color\":\"white\",\"italic\":false,\"with\":[{\"translate\":\"item.geomancy.jade\",\"color\":\"white\"}]}'},smithed:{id:\"geomancy:jade_crystal\",dict:[\"geomancy:crystal\"]},geomancy:{geode:981013}}"
                         }
                     ]
                 }

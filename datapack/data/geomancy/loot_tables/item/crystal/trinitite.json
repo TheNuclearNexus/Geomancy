@@ -10,7 +10,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:980115,display:{Name:'{\"translate\":\"item.geomancy.crystal\",\"italic\":false,\"with\":[{\"translate\":\"item.geomancy.trinitite\"}]}'},smithed:{id:\"geomancy:trinitite_crystal\",dict:[\"geomancy:crystal\"]},geomancy:{geode:981052}}"
+                            "tag": "{CustomModelData:980115,display:{Name:'{\"translate\":\"item.geomancy.crystal\",\"color\":\"white\",\"italic\":false,\"with\":[{\"translate\":\"item.geomancy.trinitite\",\"color\":\"white\"}]}'},smithed:{id:\"geomancy:trinitite_crystal\",dict:[\"geomancy:crystal\"]},geomancy:{geode:981052}}"
                         }
                     ]
                 }

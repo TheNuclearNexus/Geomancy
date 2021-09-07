@@ -1,0 +1,1 @@
+execute if predicate geomancy:item/shield/fluorite run function geomancy:item/shield/default/click/fluorite

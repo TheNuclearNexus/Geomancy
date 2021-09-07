@@ -1,0 +1,36 @@
+{
+    "condition": "minecraft:alternative",
+    "terms": [
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "mainhand": {
+              "items": [
+                "minecraft:structure_block"
+              ],
+              "nbt": "{smithed:{dict:[\"geomancy:gem\"]}}",
+              "count": 1
+            }
+          }
+        }
+      },
+      {
+        "condition": "minecraft:entity_properties",
+        "entity": "this",
+        "predicate": {
+          "equipment": {
+            "offhand": {
+              "items": [
+                "minecraft:structure_block"
+              ],
+              "nbt": "{smithed:{dict:[\"geomancy:gem\"]}}",
+              "count": 1
+            }
+          }
+        }
+      }
+    ]
+  }
+  

@@ -6,24 +6,24 @@
     "item.geomancy.hammer": "Geological Hammer",
     "item.geomancy.sandpaper": "Sandpaper",
 
-    "item.geomancy.aquamarine": "§r§fAquamarine",
-    "item.geomancy.topaz": "§r§fTopaz",
-    "item.geomancy.sapphire": "§r§fSapphire",
-    "item.geomancy.ruby": "§r§fRuby",
-    "item.geomancy.opal": "§r§fOpal",
-    "item.geomancy.black_opal": "§r§fBlack Opal",
-    "item.geomancy.tanzanite": "§r§fTanzanite",
-    "item.geomancy.pearl": "§r§fPearl",
-    "item.geomancy.pink_diamond": "§r§fPink Diamond",
-    "item.geomancy.jade": "§r§fJade",
-    "item.geomancy.pyrite": "§r§fPyrite",
-    "item.geomancy.fluorite": "§r§fFluorite",
-    "item.geomancy.ametrine": "§r§fAmetrine",
-    "item.geomancy.onyx": "§r§fOnyx",
-    "item.geomancy.trinitite": "§r§fTrinitite",
-    "item.geomancy.malachite": "§r§fMalachite",
+    "item.geomancy.aquamarine": "Aquamarine",
+    "item.geomancy.topaz": "Topaz",
+    "item.geomancy.sapphire": "Sapphire",
+    "item.geomancy.ruby": "Ruby",
+    "item.geomancy.opal": "Opal",
+    "item.geomancy.black_opal": "Black Opal",
+    "item.geomancy.tanzanite": "Tanzanite",
+    "item.geomancy.pearl": "Pearl",
+    "item.geomancy.pink_diamond": "Pink Diamond",
+    "item.geomancy.jade": "Jade",
+    "item.geomancy.pyrite": "Pyrite",
+    "item.geomancy.fluorite": "Fluorite",
+    "item.geomancy.ametrine": "Ametrine",
+    "item.geomancy.onyx": "Onyx",
+    "item.geomancy.trinitite": "Trinitite",
+    "item.geomancy.malachite": "Malachite",
 
-    "item.geomancy.crystal": "%s§r§f Crystal",
+    "item.geomancy.crystal": "%s Crystal",
     "item.geomancy.gem_shield": "%s Shield",
 
     "item.geomancy.ancient_geode": "Ancient Geode",
@@ -34,5 +34,8 @@
     "item.geomancy.eerie_geode": "Eerie Geode",
 
     "quality.geomancy.purity": "Purity %s",
-    "quality.geomancy.size": "Size %s"
+    "quality.geomancy.size": "Size %s",
+
+    "death.geomancy.penetrate": "%s's defenses were penetrated!",
+    "death.geomancy.fluorite": "%s succumbed to fluorite's power!"
 }

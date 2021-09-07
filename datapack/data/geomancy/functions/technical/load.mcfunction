@@ -13,4 +13,7 @@ scoreboard objectives add geo.exSpeed dummy
 # Sanding
 scoreboard objectives add geo.sandTime dummy
 
+# Holding
+scoreboard objectives add geo.holdShield dummy
+
 execute unless score $witherSlain geo.data matches -2147483648..2147483647 run scoreboard players set $witherSlain geo.data 0

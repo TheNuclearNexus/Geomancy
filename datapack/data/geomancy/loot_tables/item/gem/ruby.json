@@ -9,8 +9,33 @@
                     "name": "minecraft:structure_block",
                     "functions": [
                         {
+                            "function": "minecraft:set_lore",
+                            "lore": [
+                                {
+                                    "translate": "quality.geomancy.purity",
+                                    "color": "gray",
+                                    "italic": false,
+                                    "with": [
+                                        {
+                                            "translate": "enchantment.level.1"
+                                        }
+                                    ]
+                                },
+                                {
+                                    "translate": "quality.geomancy.size",
+                                    "color": "gray",
+                                    "italic": false,
+                                    "with": [
+                                        {
+                                            "translate": "enchantment.level.5"
+                                        }
+                                    ]
+                                }
+                            ]
+                        },
+                        {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:980004,display:{Name:'{\"translate\":\"item.geomancy.ruby\",\"italic\":false}'},smithed:{id:\"geomancy:ruby\",dict:[\"geomancy:gem\"]}}"
+                            "tag": "{CustomModelData:980004,display:{Name:'{\"translate\":\"item.geomancy.ruby\",\"color\":\"white\",\"italic\":false}'},smithed:{id:\"geomancy:ruby\",dict:[\"geomancy:gem\"]},geomancy:{size:5,purity:1,shield:980004}}"
                         }
                     ]
                 }

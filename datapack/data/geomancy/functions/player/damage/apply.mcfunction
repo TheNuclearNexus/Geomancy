@@ -1,5 +1,4 @@
 scoreboard players operation @s smd.damage = @s geo.blockDmg
-scoreboard players set @s geo.blockDmg 0
 
 tag @s add geo.died.shielding
 function smithed:core/entity/damage/apply/armor

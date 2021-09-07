@@ -10,7 +10,7 @@
                     "functions": [
                         {
                             "function": "minecraft:set_nbt",
-                            "tag": "{CustomModelData:980107,display:{Name:'{\"translate\":\"item.geomancy.crystal\",\"italic\":false,\"with\":[{\"translate\":\"item.geomancy.tanzanite\"}]}'},smithed:{id:\"geomancy:tanzanite_crystal\",dict:[\"geomancy:crystal\"]},geomancy:{geode:981021}}"
+                            "tag": "{CustomModelData:980107,display:{Name:'{\"translate\":\"item.geomancy.crystal\",\"color\":\"white\",\"italic\":false,\"with\":[{\"translate\":\"item.geomancy.tanzanite\",\"color\":\"white\"}]}'},smithed:{id:\"geomancy:tanzanite_crystal\",dict:[\"geomancy:crystal\"]},geomancy:{geode:981021}}"
                         }
                     ]
                 }

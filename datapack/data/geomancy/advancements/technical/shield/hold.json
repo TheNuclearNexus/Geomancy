@@ -1,0 +1,19 @@
+{
+    "criteria": {
+      "requirement": {
+        "trigger": "minecraft:using_item",
+        "conditions": {
+          "item": {
+            "items": [
+              "minecraft:shield"
+            ],
+            "nbt": "{smithed:{dict:[\"geomancy:shield\"]}}"
+          }
+        }
+      }
+    },
+    "rewards": {
+      "function": "geomancy:item/shield/hold"
+    }
+  }
+  
