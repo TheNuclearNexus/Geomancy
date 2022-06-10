@@ -1,0 +1,66 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:alternatives",
+            "children": [
+              {
+                "type": "minecraft:item",
+                "name": "minecraft:quartz",
+                "conditions": [
+                  {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                      "type": "minecraft:score",
+                      "target": {
+                        "type": "minecraft:fixed",
+                        "name": "$percent"
+                      },
+                      "score": "geomancy.data"
+                    },
+                    "range": {
+                      "min": 80,
+                      "max": 89
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:item",
+                "name": "minecraft:quartz",
+                "conditions": [
+                  {
+                    "condition": "minecraft:value_check",
+                    "value": {
+                      "type": "minecraft:score",
+                      "target": {
+                        "type": "minecraft:fixed",
+                        "name": "$percent"
+                      },
+                      "score": "geomancy.data"
+                    },
+                    "range": {
+                      "min": 90
+                    }
+                  }
+                ],
+                "functions": [
+                    {
+                      "function": "minecraft:set_count",
+                      "count": {
+                        "min": 2,
+                        "max": 3
+                      }
+                    }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

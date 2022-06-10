@@ -1,0 +1,88 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+      {
+        "rolls": 1,
+        "entries": [
+          {
+            "type": "minecraft:item",
+            "name": "minecraft:bone",
+            "conditions": [
+              {
+                "condition": "minecraft:value_check",
+                "value": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "$percent"
+                  },
+                  "score": "geomancy.data"
+                },
+                "range": {
+                  "min": 80,
+                  "max": 89
+                }
+              }
+            ],
+            "functions": [
+              {
+                "function":"set_count",
+                "count": {
+                  "min":2,
+                  "max":3
+                }
+              }
+            ]
+          },
+          {
+            "type": "minecraft:alternatives",
+            "children": [
+              {
+                "type": "minecraft:item",
+                "name": "minecraft:bone",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": {
+                      "min": 3,
+                      "max": 4
+                    }
+                  }
+                ]
+              },
+              {
+                "type": "minecraft:item",
+                "name": "minecraft:skeleton_skull",
+                "functions": [
+                  {
+                    "function": "minecraft:set_count",
+                    "count": {
+                      "min": 0,
+                      "max": 1
+                    }
+                  }
+                ]
+              }
+            ],
+            "conditions": [
+              {
+                "condition": "minecraft:value_check",
+                "value": {
+                  "type": "minecraft:score",
+                  "target": {
+                    "type": "minecraft:fixed",
+                    "name": "$percent"
+                  },
+                  "score": "geomancy.data"
+                },
+                "range": {
+                  "min": 90
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+  

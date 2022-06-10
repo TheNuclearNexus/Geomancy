@@ -1,2 +1,0 @@
-execute if entity @s[tag=geo.died.shielding] run tellraw @a [{"translate":"death.geomancy.penetrate","with":[{"selector":"@s"}]}]
-execute if entity @s[tag=geo.died.fluorite] run tellraw @a [{"translate":"death.geomancy.fluorite","with":[{"selector":"@s"}]}]

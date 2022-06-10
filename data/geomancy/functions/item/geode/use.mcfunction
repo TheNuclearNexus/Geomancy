@@ -1,0 +1,1 @@
+execute if data storage smithed:core item{tag:{smithed:{dict:["geomancy:geode"]}}} run function geomancy:item/geode/raycast

@@ -1,0 +1,1 @@
+execute if predicate geomancy:item/shield/sapphire run function geomancy:item/shield/default/passive/sapphire

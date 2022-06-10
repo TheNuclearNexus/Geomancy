@@ -1,0 +1,13 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "geomancy:item/sandpaper"
+    },
+    "display": {
+      "firstperson_righthand": {
+        "rotation": [ 0, -90, 25 ],
+        "translation": [ 5, 0, -7],
+        "scale": [ 0.88, 0.88, 0.88 ]
+      }
+    }
+  }

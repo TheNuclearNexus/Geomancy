@@ -1,0 +1,26 @@
+name: Geomancy
+description: Gem stuff
+author: TheNuclearNexus & Jachro
+version: '0.0.1'
+
+data_pack:
+  name: Geomancy
+  load:
+    - .
+
+
+resource_pack:
+  name: Geomancy RP
+  load:
+    - .
+
+
+pipeline:
+  - mecha
+
+require:
+  - bolt
+
+meta:
+  mecha:
+    formatting: preserve

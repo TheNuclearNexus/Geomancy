@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:generic",
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "minecraft:item",
+                    "name": "minecraft:potion",
+                    "functions": [
+                        {
+                            "function": "minecraft:set_nbt",
+                            "tag": "{CustomModelData:980005,HideFlags:127,CustomPotionColor:16777215,Silent:1b,display:{Name:'{\"translate\":\"item.geomancy.sandpaper\",\"italic\":false}'},smithed:{durability:{max:20},id:\"geomancy:sandpaper\"}}"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

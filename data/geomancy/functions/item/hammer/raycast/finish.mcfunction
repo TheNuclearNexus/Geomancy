@@ -1,0 +1,2 @@
+execute as @e[type=armor_stand,tag=geomancy.geodeMarker,distance=..0.4,sort=nearest] run function geomancy:entity/geode_marker/damage
+execute if entity @s[gamemode=!creative,gamemode=!spectator] run function geomancy:item/hammer/raycast/damage

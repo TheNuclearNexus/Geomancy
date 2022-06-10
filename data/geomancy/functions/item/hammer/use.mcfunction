@@ -1,0 +1,1 @@
+execute if data storage smithed:core item{tag:{smithed:{id:"geomancy:hammer"}}} run function geomancy:item/hammer/raycast

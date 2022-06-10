@@ -1,0 +1,6 @@
+{
+    "parent": "geomancy:item/sandpaper/active",
+    "textures": {
+      "layer0": "geomancy:item/sandpaper_used"
+    }
+  }
