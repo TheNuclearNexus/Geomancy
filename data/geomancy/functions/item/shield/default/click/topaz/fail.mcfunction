@@ -1,1 +1,1 @@
-execute anchored eyes positioned ^ ^ ^0.35 anchored feet run particle block yellow_stained_glass ~ ~ ~ 0 0 0 0 2
+anchored eyes positioned ^ ^ ^0.35 anchored feet particle block yellow_stained_glass ~ ~ ~ 0 0 0 0 2

@@ -19,4 +19,7 @@ scoreboard objectives add geomancy.holdShield dummy
 # Shield stuff 
 scoreboard objectives add geomancy.fall minecraft.custom:minecraft.fall_one_cm
 
-execute unless score $witherSlain geomancy.data matches -2147483648..2147483647 run scoreboard players set $witherSlain geomancy.data 0
+# COAS
+scoreboard objectives add geomancy.coas minecraft.used:minecraft.carrot_on_a_stick
+
+unless score $witherSlain geomancy.data matches -2147483648..2147483647 scoreboard players set $witherSlain geomancy.data 0

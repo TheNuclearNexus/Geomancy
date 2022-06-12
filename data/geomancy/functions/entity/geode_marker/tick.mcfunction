@@ -1,1 +1,1 @@
-execute unless block ~ ~-1 ~ #minecraft:anvil run kill @s
+unless block ~ ~-1 ~ #minecraft:anvil kill @s

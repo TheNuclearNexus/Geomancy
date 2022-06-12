@@ -1,1 +1,1 @@
-execute as @a[tag=geomancy.replaceSandpaper] run function geomancy:item/sandpaper/replace/sub
+as @a[tag=geomancy.replaceSandpaper] function geomancy:item/sandpaper/replace/sub

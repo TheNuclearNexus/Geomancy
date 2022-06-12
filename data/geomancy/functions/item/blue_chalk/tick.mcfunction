@@ -1,7 +1,7 @@
-execute if block ~ ~-1 ~ #smithed:core/air run function geomancy:item/blue_chalk/destroy
-execute if block ~ ~ ~ water run function geomancy:item/blue_chalk/destroy
-execute if block ~ ~ ~ #smithed:core/solid run function geomancy:item/blue_chalk/destroy
+if block ~ ~-1 ~ #geomancy:technical/air function geomancy:item/blue_chalk/destroy
+if block ~ ~ ~ water function geomancy:item/blue_chalk/destroy
+if block ~ ~ ~ #geomancy:technical/solid function geomancy:item/blue_chalk/destroy
 
 
-execute if entity @e[distance=..0.5,type=!#smithed:core/untargetable,tag=!geomancy.spirit] run function geomancy:item/blue_chalk/attack_entity
-execute if entity @a[distance=..0.5,gamemode=!creative, gamemode=!spectator] run function geomancy:item/blue_chalk/attack_player
+if entity @e[distance=..0.5,type=!#geomancy:untargetable,tag=!geomancy.spirit,tag=!smithed.strict] function geomancy:item/blue_chalk/attack_entity
+if entity @a[distance=..0.5,gamemode=!creative, gamemode=!spectator] function geomancy:item/blue_chalk/attack_player

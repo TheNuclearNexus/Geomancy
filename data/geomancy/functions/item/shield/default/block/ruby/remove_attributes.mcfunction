@@ -1,1 +1,1 @@
-execute as @a[tag=geomancy.ruby] run function geomancy:item/shield/default/block/ruby/remove_attributes/sub
+as @a[tag=geomancy.ruby] function geomancy:item/shield/default/block/ruby/remove_attributes/sub

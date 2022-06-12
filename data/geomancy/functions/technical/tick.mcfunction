@@ -1,5 +1,6 @@
-execute store result score $time geomancy.data run time query gametime
+store result score $time geomancy.data time query gametime
 
-execute as @a at @s run function geomancy:player/tick
+as @a at @s function geomancy:player/tick
 
-execute as @e[type=!#smithed:core/untargetable] at @s run function geomancy:entity/generic/tick
+as @e[type=!#geomancy:untargetable] at @s function geomancy:entity/generic/tick
+as @e[type=armor_stand] at @s function geomancy:entity/armor_stand

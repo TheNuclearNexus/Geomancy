@@ -1,8 +1,8 @@
-execute if score @s[tag=geomancy.backward] geomancy.exTimer matches ..9 run tag @s add geomancy.forward
-execute if score @s[tag=geomancy.backward] geomancy.exTimer matches ..9 run tag @s remove geomancy.backward
+if score @s[tag=geomancy.backward] geomancy.exTimer matches ..9 tag @s add geomancy.forward
+if score @s[tag=geomancy.backward] geomancy.exTimer matches ..9 tag @s remove geomancy.backward
 
-execute if score @s[tag=geomancy.forward] geomancy.exTimer >= $maxTimer geomancy.exTimer run tag @s add geomancy.backward
-execute if score @s[tag=geomancy.forward] geomancy.exTimer >= $maxTimer geomancy.exTimer run tag @s remove geomancy.forward
+if score @s[tag=geomancy.forward] geomancy.exTimer >= $maxTimer geomancy.exTimer tag @s add geomancy.backward
+if score @s[tag=geomancy.forward] geomancy.exTimer >= $maxTimer geomancy.exTimer tag @s remove geomancy.forward
 
 function geomancy:item/chisel/game/calc_speed
 scoreboard players operation @s[tag=geomancy.forward] geomancy.exTimer += @s geomancy.exSpeed

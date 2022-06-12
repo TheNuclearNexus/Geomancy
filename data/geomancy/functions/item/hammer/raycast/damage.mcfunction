@@ -1,3 +1,3 @@
 scoreboard players set $suc3 geomancy.data 0
-execute if data entity @s SelectedItem.tag.smithed{id:"geomancy:hammer"} store success score $suc3 geomancy.data run function #smithed:core/pub/item/durability/damage/mainhand
-execute if score $suc3 geomancy.data matches 0 if data entity @s Inventory[{Slot:-106b}].tag.smithed{id:"geomancy:hammer"} run function #smithed:core/pub/item/durability/damage/offhand
+if data entity @s SelectedItem.tag.smithed{id:"geomancy:hammer"} store success score $suc3 geomancy.data function #smithed.item:durability/damage/mainhand
+if score $suc3 geomancy.data matches 0 if data entity @s Inventory[{Slot:-106b}].tag.smithed{id:"geomancy:hammer"} function #smithed.item:durability/damage/offhand

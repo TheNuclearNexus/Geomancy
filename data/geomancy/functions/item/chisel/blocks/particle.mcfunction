@@ -1,6 +1,6 @@
-execute if block ~ ~ ~ minecraft:basalt run particle block minecraft:basalt ~ ~ ~ 0.2 0.2 0.2 0 50
-execute if block ~ ~ ~ minecraft:deepslate run particle block minecraft:deepslate ~ ~ ~ 0.2 0.2 0.2 0 50
-execute if block ~ ~ ~ minecraft:obsidian run particle block minecraft:obsidian ~ ~ ~ 0.2 0.2 0.2 0 50
-execute if block ~ ~ ~ minecraft:prismarine run particle block minecraft:prismarine ~ ~ ~ 0.2 0.2 0.2 0 50
-execute if block ~ ~ ~ minecraft:blackstone run particle block minecraft:blackstone ~ ~ ~ 0.2 0.2 0.2 0 50
-execute if block ~ ~ ~ minecraft:end_stone run particle block minecraft:end_stone ~ ~ ~ 0.2 0.2 0.2 0 50 
+if block ~ ~ ~ minecraft:basalt particle block minecraft:basalt ~ ~ ~ 0.2 0.2 0.2 0 50
+if block ~ ~ ~ minecraft:deepslate particle block minecraft:deepslate ~ ~ ~ 0.2 0.2 0.2 0 50
+if block ~ ~ ~ minecraft:obsidian particle block minecraft:obsidian ~ ~ ~ 0.2 0.2 0.2 0 50
+if block ~ ~ ~ minecraft:prismarine particle block minecraft:prismarine ~ ~ ~ 0.2 0.2 0.2 0 50
+if block ~ ~ ~ minecraft:blackstone particle block minecraft:blackstone ~ ~ ~ 0.2 0.2 0.2 0 50
+if block ~ ~ ~ minecraft:end_stone particle block minecraft:end_stone ~ ~ ~ 0.2 0.2 0.2 0 50 

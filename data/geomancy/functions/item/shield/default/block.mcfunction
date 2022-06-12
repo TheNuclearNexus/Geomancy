@@ -1,5 +1,5 @@
-execute if predicate geomancy:item/shield/fluorite run function geomancy:item/shield/default/block/fluorite
-execute if predicate geomancy:item/shield/jade run function geomancy:item/shield/default/block/jade
-execute if predicate geomancy:item/shield/aquamarine run function geomancy:item/shield/default/block/aquamarine
-execute if predicate geomancy:item/shield/ruby if entity @s[tag=!geomancy.ruby] run function geomancy:item/shield/default/block/ruby
-execute if predicate geomancy:item/shield/onyx run function geomancy:item/shield/default/block/onyx
+if predicate geomancy:item/shield/fluorite function geomancy:item/shield/default/block/fluorite
+if predicate geomancy:item/shield/jade function geomancy:item/shield/default/block/jade
+if predicate geomancy:item/shield/aquamarine function geomancy:item/shield/default/block/aquamarine
+if predicate geomancy:item/shield/ruby if entity @s[tag=!geomancy.ruby] function geomancy:item/shield/default/block/ruby
+if predicate geomancy:item/shield/onyx function geomancy:item/shield/default/block/onyx

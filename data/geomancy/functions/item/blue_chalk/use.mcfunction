@@ -1,1 +1,1 @@
-execute if data storage smithed:core item{tag:{smithed:{id:"geomancy:blue_chalk"}}} run function geomancy:item/blue_chalk/raycast
+if data storage geomancy:data item{tag:{smithed:{id:"geomancy:blue_chalk"}}} function geomancy:item/blue_chalk/raycast

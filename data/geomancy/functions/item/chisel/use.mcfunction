@@ -1,1 +1,1 @@
-execute if data storage smithed:core item{tag:{smithed:{id:"geomancy:chisel"}}} run function geomancy:item/chisel/click
+if data storage geomancy:data item{tag:{smithed:{id:"geomancy:chisel"}}} function geomancy:item/chisel/click

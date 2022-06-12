@@ -1,1 +1,1 @@
-execute as @a[scores={geomancy.blockDmg=1..}] at @s run function geomancy:player/damage/block
+as @a[scores={geomancy.blockDmg=1..}] at @s function geomancy:player/damage/block

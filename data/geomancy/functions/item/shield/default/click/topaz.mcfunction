@@ -1,4 +1,4 @@
-execute store result score $cooldown geomancy.data run data get storage geomancy:data item.cooldown
+store result score $cooldown geomancy.data data get storage geomancy:data item.cooldown
 
-execute if score $time geomancy.data < $cooldown geomancy.data run function geomancy:item/shield/default/click/topaz/fail
-execute if score $time geomancy.data >= $cooldown geomancy.data run function geomancy:item/shield/default/click/topaz/suc
+if score $time geomancy.data < $cooldown geomancy.data function geomancy:item/shield/default/click/topaz/fail
+if score $time geomancy.data >= $cooldown geomancy.data function geomancy:item/shield/default/click/topaz/suc
