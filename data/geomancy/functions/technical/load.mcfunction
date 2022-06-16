@@ -1,6 +1,8 @@
 scoreboard objectives add geomancy.blockDmg minecraft.custom:minecraft.damage_blocked_by_shield
 
 scoreboard objectives add geomancy.data dummy
+scoreboard objectives add geomancy.time dummy
+scoreboard objectives add geomancy.id dummy
 
 # Chiseling Scores
 scoreboard objectives add geomancy.exTimer dummy
@@ -9,6 +11,7 @@ scoreboard objectives add geomancy.exPoints dummy
 scoreboard objectives add geomancy.exFails dummy
 scoreboard objectives add geomancy.exGoal dummy
 scoreboard objectives add geomancy.exSpeed dummy
+scoreboard objectives add geomancy.exPos dummy
 
 # Sanding
 scoreboard objectives add geomancy.sandTime dummy

@@ -24,3 +24,6 @@ if score @s geomancy.coas matches 1..:
 
 if predicate geomancy:technical/hold_shield function geomancy:player/tick/passive_shield
 
+unless score @s geomancy.id matches 1..:
+    scoreboard players add $id geomancy.id 1
+    scoreboard players operation @s geomancy.id = $id geomancy.id

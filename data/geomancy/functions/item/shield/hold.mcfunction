@@ -7,3 +7,4 @@ store success score $suc geomancy.data if predicate geomancy:item/shield/mainhan
 if score $suc geomancy.data matches 0 if predicate geomancy:item/shield/offhand function geomancy:item/shield/hold/offhand
 
 scoreboard players set @s geomancy.holdShield 2
+

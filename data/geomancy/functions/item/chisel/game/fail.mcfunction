@@ -7,8 +7,8 @@ title @s actionbar ""
 
 function geomancy:item/chisel/game/calc_percent
 
-scoreboard players operation $temp smithed.id = @s smithed.id
-as @e[tag=geomancy.exMarker] if score @s smithed.id = $temp smithed.id at @s function ./fail/marker:
+scoreboard players operation $temp geomancy.id = @s geomancy.id
+as @e[tag=geomancy.exMarker] if score @s geomancy.id = $temp geomancy.id at @s function ./fail/marker:
     function #geomancy:item/chisel/particle
     if score $percent geomancy.data matches 50.. function #geomancy:item/chisel/fail
     if score $percent geomancy.data matches 50.. setblock ~ ~ ~ air

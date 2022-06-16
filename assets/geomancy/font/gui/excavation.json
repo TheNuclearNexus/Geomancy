@@ -1,0 +1,55 @@
+{
+    "providers": [
+        {
+            "type": "space",
+            "advances": {
+              "S": -1
+            }
+        },
+        {
+            "type": "bitmap",
+            "file": "geomancy:gui/excavation/left_end.png",
+            "ascent": 0,
+            "height": 7,
+            "chars": [
+                "["
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "geomancy:gui/excavation/middle_empty.png",
+            "ascent": 0,
+            "height": 7,
+            "chars": [
+                "-"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "geomancy:gui/excavation/middle_ball.png",
+            "ascent": 0,
+            "height": 7,
+            "chars": [
+                "●"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "geomancy:gui/excavation/middle_pos.png",
+            "ascent": 0,
+            "height": 7,
+            "chars": [
+                "+"
+            ]
+        },
+        {
+            "type": "bitmap",
+            "file": "geomancy:gui/excavation/right_end.png",
+            "ascent": 0,
+            "height": 7,
+            "chars": [
+                "]"
+            ]
+        }
+    ]
+}

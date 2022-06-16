@@ -9,4 +9,3 @@ if data storage geomancy:data item{size:5} function geomancy:item/shield/default
 
 tag @e[type=!#geomancy:untargetable,distance=..12] remove geomancy.trinitite
 tag @a remove geomancy.trinitite
-

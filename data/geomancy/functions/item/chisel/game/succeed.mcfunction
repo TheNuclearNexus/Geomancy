@@ -1,8 +1,8 @@
 tag @s remove geomancy.exGame
 title @s actionbar ""
 
-scoreboard players operation $temp smithed.id = @s smithed.id
-as @e[tag=geomancy.exMarker] if score @s smithed.id = $temp smithed.id at @s function ./succeed/marker:
+scoreboard players operation $temp geomancy.id = @s geomancy.id
+as @e[tag=geomancy.exMarker] if score @s geomancy.id = $temp geomancy.id at @s function ./succeed/marker:
     function #geomancy:item/chisel/success
     function #geomancy:item/chisel/particle
     setblock ~ ~ ~ air
